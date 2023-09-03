@@ -6,7 +6,7 @@ settings:
 
 devDependencies:
   typescript:
-    specifier: ^4.9.5
+    specifier: 4.9.5
     version: 4.9.5
 
 packages:
